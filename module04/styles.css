@@ -94,12 +94,21 @@ header {
 
 main {
 	width: calc(80% - 10px)
+	float: left;
+	padding: 8px;
+	border-right: 1px;
 }
 
-
+.elements {
+	width: calc(30% + 0)
+	float: right;
+}
 # Footer Area
 
-
+footer {
+	background-color: rgb(210, 133, 233);
+	text-align: center;
+}
 
 
 # Reusable Classes
