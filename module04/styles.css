@@ -9,23 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 
 
 
-selector {
-	layout(position)
-	body {
-        margin: 0;
-    }
-	content(text)
-	
-	design(background)
-	
-	other(z-index)
-}
 
->>> COLORS:	  
-
-:root {
-  --color-variable: #ffffff;
-}
 
 
 
