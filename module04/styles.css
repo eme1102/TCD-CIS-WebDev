@@ -114,6 +114,8 @@ aside {
 footer {
 	background-color:  rgb(141, 245, 248);
 	text-align: center;
+	clear: both;
+
 }
 
 /*--------------------------------------------------------------
