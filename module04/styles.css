@@ -107,6 +107,7 @@ main {
 aside {
 	width: 30%;
 	float: right;
+	border:1px solid green;
 }
 /*--------------------------------------------------------------
 # Footer Area
