@@ -98,7 +98,7 @@ header {
 main {
 	width: calc(70% -1px);
 	float: left;
-	padding: 8px;
+	padding: 1rem;
 	border-right: 1px solid #000;
 }
 /*--------------------------------------------------------------
