@@ -1,3 +1,6 @@
 picture {
   align: center;
 }
+figcaption {
+  text-align: center;
+}
